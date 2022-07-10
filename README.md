@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Omnifood Webpage](https://github.com/SadracTijerina/Omnifood/tree/main)
 
-- 🌱 I’m currently learning **Web Design and Sass**
+- 🌱 I’m currently learning **iOS Development**
 
 - 📫 How to reach me **TijerinaSadrac@gmail.com**
 
