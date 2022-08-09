@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadrac Tijerina</h1>
 <h3 align="center">A Software Engineer from McAllen, Texas</h3>
 
-- 🔭 I’m currently working on [Omnifood Webpage](https://github.com/SadracTijerina/Omnifood/tree/main)
+- 🔭 I’m currently working on [NBA players quiz app](https://github.com/SadracTijerina/QuizApp)
 
 - 🌱 I’m currently learning **Mobile Developement**
 
