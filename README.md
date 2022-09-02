@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Drawing App](https://github.com/SadracTijerina/Drawing-App)
 
-- 🌱 I’m currently learning **Mobile Developement**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **TijerinaSadrac@gmail.com**
 
