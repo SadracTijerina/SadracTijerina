@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **TijerinaSadrac@gmail.com**
 
-- ⚡ Fun fact **I won class clown in highschool. I am a very outgoing person feel free to reach out about anything!.**
+- ⚡ Fun fact **I won class clown in highschool. I am a very outgoing person feel free to reach out about anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
